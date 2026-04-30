@@ -45,6 +45,3 @@ for name in students:   # Loop through dictionary keys
 for name in students:
     print(f"Quiz for {name}")   # Show whose quiz it is
     score = 0   # Start score from 0
-
-
-
